@@ -1,9 +1,7 @@
 # Multiplayer 
-
 import random
 pc=random.randrange(1,4)
 print(pc)
-
 x=0
 y=0
 over = False
