@@ -1,5 +1,4 @@
 # playing with computer
-
 import random
 x=0
 y=0
